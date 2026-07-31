@@ -3,11 +3,11 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Fork](https://img.shields.io/badge/Fork-To_Do_List_App-blue?style=for-the-badge)
 
-> **Task management application** — A to-do list with priority/importance ordering. This is a fork for learning/reference.
+> **Task management application** -- A to-do list with priority/importance ordering. This is a fork for learning/reference.
 
 ---
 
-## ⚠️ **This is a Fork**
+## This is a Fork
 
 **Original Repository:** Not identified in GitHub UI
 
@@ -18,13 +18,13 @@ This fork exists for:
 
 ---
 
-## 🌟 Overview
+## Overview
 
 A to-do list application where tasks are organized by priority or importance. The original implementation appears to be primarily CSS-focused, possibly demonstrating advanced CSS techniques for drag-and-drop, sorting, or visual priority indicators without heavy JavaScript.
 
 ---
 
-## ✨ Features (Inferred)
+## Features (Inferred)
 
 | Feature | Description |
 |---------|-------------|
@@ -37,7 +37,7 @@ A to-do list application where tasks are organized by priority or importance. Th
 
 ---
 
-## 🛠 Tech Stack (Inferred)
+## Tech Stack (Inferred)
 
 | Layer | Technology |
 |-------|------------|
@@ -48,27 +48,27 @@ A to-do list application where tasks are organized by priority or importance. Th
 
 ---
 
-## 📁 Project Structure (Typical)
+## Project Structure (Typical)
 
 ```text
 todo-list/
-├── index.html              # Main HTML
-├── css/
-│   ├── main.css            # Core styles
-│   ├── components.css      # Task item, priority badges
-│   └── themes.css          # Light/dark mode
-├── js/
-│   ├── app.js              # Main logic
-│   ├── storage.js          # Persistence layer
-│   └── sorting.js          # Priority sorting algorithm
-├── assets/
-│   └── icons/              # SVG icons
-└── README.md               # This file
++-- index.html              # Main HTML
++-- css/
+|   +-- main.css            # Core styles
+|   +-- components.css      # Task item, priority badges
+|   +-- themes.css          # Light/dark mode
++-- js/
+|   +-- app.js              # Main logic
+|   +-- storage.js          # Persistence layer
+|   +-- sorting.js          # Priority sorting algorithm
++-- assets/
+|   +-- icons/              # SVG icons
++-- README.md               # This file
 ```
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone this fork
@@ -86,26 +86,26 @@ python -m http.server 8000
 
 ---
 
-## 🎨 CSS Techniques to Study
+## CSS Techniques to Study
 
 If this is a CSS-focused project, look for:
 
-- **CSS-only sorting** — `order` property with data attributes
-- **Priority visualization** — Gradient borders, colored left bars
-- **Drag-and-drop** — Native HTML5 DnD API + CSS feedback
-- **Custom checkboxes** — `appearance: none` + styled labels
-- **Container queries** — Responsive task cards
-- **CSS variables** — Dynamic priority colors
+- **CSS-only sorting** -- `order` property with data attributes
+- **Priority visualization** -- Gradient borders, colored left bars
+- **Drag-and-drop** -- Native HTML5 DnD API + CSS feedback
+- **Custom checkboxes** -- `appearance: none` + styled labels
+- **Container queries** -- Responsive task cards
+- **CSS variables** -- Dynamic priority colors
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-**This is a fork — contribute to the original repository if possible.**
+**This is a fork -- contribute to the original repository if possible.**
 
 ---
 
-## 🔍 Finding the Original
+## Finding the Original
 
 ```bash
 # Check commit history for original author
@@ -121,13 +121,13 @@ Search GitHub for:
 
 ---
 
-## 📄 License
+## License
 
-**Unknown** — Check original repository for license.
+**Unknown** -- Check original repository for license.
 
 ---
 
-## 👤 Fork Owner
+## Fork Owner
 
 **Karthikeyan K** (BCA Analytics)
 - GitHub: [@orange-05](https://github.com/orange-05)
@@ -135,4 +135,4 @@ Search GitHub for:
 
 ---
 
-*Forked for CSS learning — original author unknown.* — Documented July 2026
+*Forked for CSS learning -- original author unknown.* -- Documented July 2026
